@@ -73,6 +73,7 @@ public class Personnel {
         System.out.println("Poids\t\t\t: " + poids + " kg");
         System.out.println("Date de embauche : " + dateEmbauche);
         System.out.println("Fin Contrat\t\t: " + finContrat);
+        System.out.println();
     }
 }
 
