@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7bfbfa2-1671-4a25-a953-bd609059d3da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Acces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountAndOwner/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountAndOwner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountAndOwner/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparingValuesAndRelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypeSizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeclarerLesMethodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmbauchaCandidatureTechnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/DivByThreeFiveNone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/EquationSecondDegre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/ExercicesFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/FindingLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/GetFirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/InverseFlags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Kettel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/SousChaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/TasksHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/TypeNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices/UniqueAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FigureEtoile/Etoile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatingAndCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Happiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementAndDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InstructionConditionnelle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItererSurTableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamingVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverloadMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMethode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadingUsersInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TableauMultidimensionnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tableaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Personnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33nVyHhnakzWUpURNTbCPe1Cbcq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComparingValuesAndRelationalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypeSizes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeclarerLesMethodes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Digit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivByThreeFiveNone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmbauchaCandidatureTechnique.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatingAndCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatingAndOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetFirstAndLast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Happiness.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncrementAndDecrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstructionConditionnelle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InverseFlags.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ItererSurTableaux.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NamingVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverloadMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Play.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintMethode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingUsersInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SousChaine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringAndArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tableaux.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeNombre.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.training.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Git Repos/JavaProjet/training/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.training">
+    <configuration name="DataTypeSizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeSizes" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeclarerLesMethodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeclarerLesMethodes" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercices.FindingLetter" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercices.UniqueAnagram" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="training" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training" />
+      <module name="Training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.training" />
+        <item itemvalue="Application.FindingLetter" />
+        <item itemvalue="Application.DataTypeSizes" />
+        <item itemvalue="Application.DeclarerLesMethodes" />
+        <item itemvalue="Application.UniqueAnagram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.29188.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.29188.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7bfbfa2-1671-4a25-a953-bd609059d3da" name="Changes" comment="" />
+      <created>1759953075676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759953075676</updated>
+      <workItem from="1759953076877" duration="1518000" />
+      <workItem from="1760026671050" duration="7609000" />
+      <workItem from="1760128232760" duration="2334000" />
+      <workItem from="1760368206962" duration="538000" />
+      <workItem from="1760438989912" duration="4984000" />
+      <workItem from="1760608610405" duration="5520000" />
+      <workItem from="1760700332293" duration="4116000" />
+      <workItem from="1760960430063" duration="3428000" />
+      <workItem from="1761060220500" duration="1619000" />
+      <workItem from="1761160668828" duration="6030000" />
+      <workItem from="1761214053389" duration="6736000" />
+      <workItem from="1761252840838" duration="2390000" />
+      <workItem from="1761571539285" duration="8717000" />
+      <workItem from="1761668451596" duration="12730000" />
+      <workItem from="1761741234451" duration="11335000" />
+      <workItem from="1761821676502" duration="28288000" />
+      <workItem from="1761914652554" duration="10868000" />
+      <workItem from="1762166120920" duration="13911000" />
+      <workItem from="1762252232504" duration="4444000" />
+      <workItem from="1762366971688" duration="1846000" />
+      <workItem from="1762380949980" duration="5013000" />
+      <workItem from="1762463729698" duration="6880000" />
+      <workItem from="1762730788303" duration="1044000" />
+      <workItem from="1762891371000" duration="5888000" />
+      <workItem from="1762991192413" duration="4068000" />
+      <workItem from="1763055164040" duration="6624000" />
+      <workItem from="1763155405498" duration="6063000" />
+      <workItem from="1763246089514" duration="4209000" />
+      <workItem from="1763251341030" duration="52000" />
+      <workItem from="1763320731408" duration="7669000" />
+      <workItem from="1763420489875" duration="2219000" />
+      <workItem from="1763504853014" duration="5254000" />
+      <workItem from="1763582378781" duration="4328000" />
+      <workItem from="1763674235830" duration="3859000" />
+      <workItem from="1763761025458" duration="2157000" />
+      <workItem from="1763850713400" duration="859000" />
+      <workItem from="1763927898112" duration="4471000" />
+      <workItem from="1763932419251" duration="934000" />
+      <workItem from="1764006990816" duration="10301000" />
+      <workItem from="1764070343364" duration="8739000" />
+      <workItem from="1764114519752" duration="11000" />
+      <workItem from="1764159662680" duration="4095000" />
+      <workItem from="1764239026937" duration="5649000" />
+      <workItem from="1764368257579" duration="3518000" />
+      <workItem from="1764431066704" duration="5769000" />
+      <workItem from="1764623761279" duration="1697000" />
+      <workItem from="1764672677499" duration="13710000" />
+      <workItem from="1764765236455" duration="2315000" />
+      <workItem from="1764848794638" duration="5012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
